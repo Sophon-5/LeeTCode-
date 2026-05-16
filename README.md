@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sophon-5/LeeTCode-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [2615-sum-of-distances](https://github.com/Sophon-5/LeeTCode-/tree/master/2615-sum-of-distances) |
 ## Hash Table
 |  |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2833-furthest-point-from-origin](https://github.com/Sophon-5/LeeTCode-/tree/master/2833-furthest-point-from-origin) |
+## Binary Search
+|  |
+| ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sophon-5/LeeTCode-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
