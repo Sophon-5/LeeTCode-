@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Sophon-5/LeeTCode-/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Sophon-5/LeeTCode-/tree/master/0073-set-matrix-zeroes) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sophon-5/LeeTCode-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0169-majority-element](https://github.com/Sophon-5/LeeTCode-/tree/master/0169-majority-element) |
 | [0287-find-the-duplicate-number](https://github.com/Sophon-5/LeeTCode-/tree/master/0287-find-the-duplicate-number) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sophon-5/LeeTCode-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2615-sum-of-distances](https://github.com/Sophon-5/LeeTCode-/tree/master/2615-sum-of-distances) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Sophon-5/LeeTCode-/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/Sophon-5/LeeTCode-/tree/master/0169-majority-element) |
 | [2615-sum-of-distances](https://github.com/Sophon-5/LeeTCode-/tree/master/2615-sum-of-distances) |
 ## Prefix Sum
 |  |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sophon-5/LeeTCode-/tree/master/0169-majority-element) |
 | [2833-furthest-point-from-origin](https://github.com/Sophon-5/LeeTCode-/tree/master/2833-furthest-point-from-origin) |
 ## Binary Search
 |  |
@@ -39,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sophon-5/LeeTCode-/tree/master/0169-majority-element) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sophon-5/LeeTCode-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Matrix
 |  |
@@ -57,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Sophon-5/LeeTCode-/tree/master/0287-find-the-duplicate-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sophon-5/LeeTCode-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
