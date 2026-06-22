@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Sophon-5/LeeTCode-/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Sophon-5/LeeTCode-/tree/master/0169-majority-element) |
+| [1189-maximum-number-of-balloons](https://github.com/Sophon-5/LeeTCode-/tree/master/1189-maximum-number-of-balloons) |
 | [2615-sum-of-distances](https://github.com/Sophon-5/LeeTCode-/tree/master/2615-sum-of-distances) |
 ## Prefix Sum
 |  |
@@ -24,11 +25,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Sophon-5/LeeTCode-/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/Sophon-5/LeeTCode-/tree/master/2833-furthest-point-from-origin) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sophon-5/LeeTCode-/tree/master/0169-majority-element) |
+| [1189-maximum-number-of-balloons](https://github.com/Sophon-5/LeeTCode-/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/Sophon-5/LeeTCode-/tree/master/2833-furthest-point-from-origin) |
 ## Binary Search
 |  |
