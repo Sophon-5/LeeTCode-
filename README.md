@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Sophon-5/LeeTCode-/tree/master/0994-rotting-oranges) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sophon-5/LeeTCode-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2615-sum-of-distances](https://github.com/Sophon-5/LeeTCode-/tree/master/2615-sum-of-distances) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Sophon-5/LeeTCode-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,10 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sophon-5/LeeTCode-/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/Sophon-5/LeeTCode-/tree/master/1189-maximum-number-of-balloons) |
 | [2615-sum-of-distances](https://github.com/Sophon-5/LeeTCode-/tree/master/2615-sum-of-distances) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Sophon-5/LeeTCode-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [2615-sum-of-distances](https://github.com/Sophon-5/LeeTCode-/tree/master/2615-sum-of-distances) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Sophon-5/LeeTCode-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
 | ------- |
@@ -34,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Sophon-5/LeeTCode-/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/Sophon-5/LeeTCode-/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/Sophon-5/LeeTCode-/tree/master/2833-furthest-point-from-origin) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Sophon-5/LeeTCode-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -70,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sophon-5/LeeTCode-/tree/master/0169-majority-element) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Sophon-5/LeeTCode-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -87,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Sophon-5/LeeTCode-/tree/master/0547-number-of-provinces) |
+## Segment Tree
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Sophon-5/LeeTCode-/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Sophon-5/LeeTCode-/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
