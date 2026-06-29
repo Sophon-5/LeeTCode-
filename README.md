@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Sophon-5/LeeTCode-/tree/master/0073-set-matrix-zeroes) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sophon-5/LeeTCode-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Sophon-5/LeeTCode-/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/Sophon-5/LeeTCode-/tree/master/0200-number-of-islands) |
 | [0287-find-the-duplicate-number](https://github.com/Sophon-5/LeeTCode-/tree/master/0287-find-the-duplicate-number) |
 | [0994-rotting-oranges](https://github.com/Sophon-5/LeeTCode-/tree/master/0994-rotting-oranges) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sophon-5/LeeTCode-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Sophon-5/LeeTCode-/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Sophon-5/LeeTCode-/tree/master/0073-set-matrix-zeroes) |
+| [0200-number-of-islands](https://github.com/Sophon-5/LeeTCode-/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Sophon-5/LeeTCode-/tree/master/0994-rotting-oranges) |
 ## Math
 |  |
@@ -78,12 +80,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Sophon-5/LeeTCode-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Sophon-5/LeeTCode-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sophon-5/LeeTCode-/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Sophon-5/LeeTCode-/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Sophon-5/LeeTCode-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Sophon-5/LeeTCode-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sophon-5/LeeTCode-/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Sophon-5/LeeTCode-/tree/master/0547-number-of-provinces) |
@@ -91,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Sophon-5/LeeTCode-/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Sophon-5/LeeTCode-/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
