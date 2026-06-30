@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Sophon-5/LeeTCode-/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Sophon-5/LeeTCode-/tree/master/0169-majority-element) |
 | [1189-maximum-number-of-balloons](https://github.com/Sophon-5/LeeTCode-/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sophon-5/LeeTCode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2615-sum-of-distances](https://github.com/Sophon-5/LeeTCode-/tree/master/2615-sum-of-distances) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sophon-5/LeeTCode-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Prefix Sum
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Sophon-5/LeeTCode-/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sophon-5/LeeTCode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sophon-5/LeeTCode-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2833-furthest-point-from-origin](https://github.com/Sophon-5/LeeTCode-/tree/master/2833-furthest-point-from-origin) |
 ## Counting
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Sophon-5/LeeTCode-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sophon-5/LeeTCode-/tree/master/0210-course-schedule-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sophon-5/LeeTCode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 <!---LeetCode Topics End-->
