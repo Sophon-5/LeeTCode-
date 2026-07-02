@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sophon-5/LeeTCode-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sophon-5/LeeTCode-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2615-sum-of-distances](https://github.com/Sophon-5/LeeTCode-/tree/master/2615-sum-of-distances) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Sophon-5/LeeTCode-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sophon-5/LeeTCode-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Sophon-5/LeeTCode-/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/Sophon-5/LeeTCode-/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Sophon-5/LeeTCode-/tree/master/0994-rotting-oranges) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Sophon-5/LeeTCode-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Sophon-5/LeeTCode-/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Sophon-5/LeeTCode-/tree/master/0547-number-of-provinces) |
 | [0994-rotting-oranges](https://github.com/Sophon-5/LeeTCode-/tree/master/0994-rotting-oranges) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Sophon-5/LeeTCode-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -107,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Sophon-5/LeeTCode-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sophon-5/LeeTCode-/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Sophon-5/LeeTCode-/tree/master/0547-number-of-provinces) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Sophon-5/LeeTCode-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Segment Tree
 |  |
 | ------- |
@@ -124,4 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sophon-5/LeeTCode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Sophon-5/LeeTCode-/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Sophon-5/LeeTCode-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
