@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Sophon-5/LeeTCode-/tree/master/0130-surrounded-regions) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sophon-5/LeeTCode-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Sophon-5/LeeTCode-/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Sophon-5/LeeTCode-/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Sophon-5/LeeTCode-/tree/master/0200-number-of-islands) |
 | [0287-find-the-duplicate-number](https://github.com/Sophon-5/LeeTCode-/tree/master/0287-find-the-duplicate-number) |
 | [0994-rotting-oranges](https://github.com/Sophon-5/LeeTCode-/tree/master/0994-rotting-oranges) |
@@ -73,10 +74,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Sophon-5/LeeTCode-/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/Sophon-5/LeeTCode-/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sophon-5/LeeTCode-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/Sophon-5/LeeTCode-/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/Sophon-5/LeeTCode-/tree/master/0287-find-the-duplicate-number) |
 ## Bit Manipulation
 |  |
