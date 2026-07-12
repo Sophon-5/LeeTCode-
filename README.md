@@ -158,4 +158,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sophon-5/LeeTCode-/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Sophon-5/LeeTCode-/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Sophon-5/LeeTCode-/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
