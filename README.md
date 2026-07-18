@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Sophon-5/LeeTCode-/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sophon-5/LeeTCode-/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/Sophon-5/LeeTCode-/tree/master/0560-subarray-sum-equals-k) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Sophon-5/LeeTCode-/tree/master/0990-satisfiability-of-equality-equations) |
 | [0994-rotting-oranges](https://github.com/Sophon-5/LeeTCode-/tree/master/0994-rotting-oranges) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sophon-5/LeeTCode-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sophon-5/LeeTCode-/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0990-satisfiability-of-equality-equations](https://github.com/Sophon-5/LeeTCode-/tree/master/0990-satisfiability-of-equality-equations) |
 | [1189-maximum-number-of-balloons](https://github.com/Sophon-5/LeeTCode-/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Sophon-5/LeeTCode-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sophon-5/LeeTCode-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Sophon-5/LeeTCode-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Sophon-5/LeeTCode-/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Sophon-5/LeeTCode-/tree/master/0547-number-of-provinces) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Sophon-5/LeeTCode-/tree/master/0990-satisfiability-of-equality-equations) |
 ## Graph Theory
 |  |
 | ------- |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Sophon-5/LeeTCode-/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Sophon-5/LeeTCode-/tree/master/0547-number-of-provinces) |
 | [0802-find-eventual-safe-states](https://github.com/Sophon-5/LeeTCode-/tree/master/0802-find-eventual-safe-states) |
+| [0990-satisfiability-of-equality-equations](https://github.com/Sophon-5/LeeTCode-/tree/master/0990-satisfiability-of-equality-equations) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sophon-5/LeeTCode-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Segment Tree
 |  |
