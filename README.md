@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Sophon-5/LeeTCode-/tree/master/0560-subarray-sum-equals-k) |
 | [0994-rotting-oranges](https://github.com/Sophon-5/LeeTCode-/tree/master/0994-rotting-oranges) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Sophon-5/LeeTCode-/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Sophon-5/LeeTCode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sophon-5/LeeTCode-/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2615-sum-of-distances](https://github.com/Sophon-5/LeeTCode-/tree/master/2615-sum-of-distances) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sophon-5/LeeTCode-/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Sophon-5/LeeTCode-/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Sophon-5/LeeTCode-/tree/master/0189-rotate-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Sophon-5/LeeTCode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sophon-5/LeeTCode-/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
 |  |
@@ -174,5 +176,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Sophon-5/LeeTCode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sophon-5/LeeTCode-/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
