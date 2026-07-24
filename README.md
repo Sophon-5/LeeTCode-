@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2615-sum-of-distances](https://github.com/Sophon-5/LeeTCode-/tree/master/2615-sum-of-distances) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sophon-5/LeeTCode-/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sophon-5/LeeTCode-/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Sophon-5/LeeTCode-/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Sophon-5/LeeTCode-/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Sophon-5/LeeTCode-/tree/master/0189-rotate-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Sophon-5/LeeTCode-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sophon-5/LeeTCode-/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Sophon-5/LeeTCode-/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Sophon-5/LeeTCode-/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Sophon-5/LeeTCode-/tree/master/0287-find-the-duplicate-number) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sophon-5/LeeTCode-/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Sophon-5/LeeTCode-/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -192,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/Sophon-5/LeeTCode-/tree/master/1291-sequential-digits) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sophon-5/LeeTCode-/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/Sophon-5/LeeTCode-/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Number Theory
 |  |
 | ------- |
